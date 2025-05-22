@@ -9,6 +9,8 @@
 <p align="center">
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-ansible)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/ansible/total?style=flat-square)
+
   <a href="https://www.ansible.com/">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
 </a>
@@ -24,19 +26,13 @@
   <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
 </p>
 
-### 📄 Ansible Repos
-
-- [Qompass current](https://github.com/qompassai/pipewire)
-
----
-
 <details id="Contact">
   <summary><strong>Contact Qompass AI</strong></summary>
 
  <div align="center">
-  <p>Matthew A. Porter<sup>1</sup><br>
-  <sup>1</sup>Qompass AI, Spokane, WA</p>
-  
+  <p>Matthew A. Porter<br>
+  Qompass AI, Spokane, WA</p>
+
   <h3>Publications</h3>
   <p>
     <a href="https://orcid.org/0000-0002-0302-4812">
@@ -49,6 +45,17 @@
       <img src="https://img.shields.io/badge/Zenodo-Publications-blue?style=flat-square&logo=zenodo" alt="Zenodo">
     </a>
   </p>
+
+  <h3 align="center">Developer Programs</h3>
+<div align="center">
+ 
+[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
+[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
+[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
+[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
+</div>
+
   
   <h3>Professional Profiles</h3>
   <p>
@@ -108,17 +115,8 @@
 
 <p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
 </div>
-
-<h3 align="center">Developer Programs</h3>
-<div align="center">
- 
-[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
-[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
-[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
-[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
-</div>
 </details>
+
 
 <details id="FAQ">
   <summary><strong>Frequently Asked Questions</strong></summary>
