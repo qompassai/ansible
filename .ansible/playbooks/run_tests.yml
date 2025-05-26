@@ -1,8 +1,0 @@
-- name: Clone blaze.nvim Repository
-  hosts: localhost
-  tasks:
-    - name: Clone repository from GitHub
-      ansible.builtin.git:
-        repo: "https://github.com/qompassai/blaze.nvim"
-        dest: "~/.ansible/blaze.nvim"
-        version: main
